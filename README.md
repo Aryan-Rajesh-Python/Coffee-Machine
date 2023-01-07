@@ -1,1 +1,1 @@
-# Coffee-Machine
+This coffee machine code works as it asks user for the type of flavour they want to drink and it checks if there are sufficient ingredients and it asks users to put some coins it calculates the money and offers you a drink if the money is sufficient and it also returns change if the gven money is more than cost of drink and it displays money insufficient if the given money is less than the cost of drink it also generates a report of how many resources ar left after each transaction.
